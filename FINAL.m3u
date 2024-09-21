@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="712611" tvg-name="KILYE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxdCIxCA6DydRcRUpEXLwZHDWXZ.jpg" group-title="NACIONAL",SALAY
+#EXTINF:-1 xui-id="712612" tvg-name="La Casa de Papel S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sVue90Xd7kbTLrfbArexjpPEz.jpg" group-title="MORENADA",MANTILLA
+
+#EXTINF:-1 xui-id="712624" tvg-name="La Casa de Papel S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHrz83swVVJ8iPmK3DcsfIzGxVf.jpg" group-title="MORENADA",TINKU
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+
+#EXTINF:-1 xui-id="712625" tvg-name="La Casa de Papel S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg7nd7r0Iptr2W8kW37OSed1C4q.jpg" group-title="TINKU",IMILIITA
+https://cdn-cf-east.streamable.com/video/mp4/hddfz8.mp4?Expires=1727148133204&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=JcsjUsMVORj8lG31BKHIGUCsAJv-IabMjXeudAGvd5JBHYh-gX-Qo-OVDThJAizjSrXhd7iszT9DzMcHbLUkTPb4AjvrrKf0u9izmU78bYjGu6Hq~3DaUDvjUkplMiKGnApl9ENKMT329u3~fE2JowpQI~rqPZxvG1WLtiO4bRNoTzC9rjV3NFYhlQg010xsN-dyhZOmS0ix3qfy~5mP7bewlXRtwlh2PI-ukH6NPVZj4PipuZzY204LelOny4MU2sD50liWPvCqX8KP8W0KI~2CuIgqhKFiX1oEE2Is18nfGsWycesQC3hG1lOH3vME4Yj1oLcPekkb0Qw0oUBigw__
+#EXTINF:-1 xui-id="712626" tvg-name="La Casa de Papel S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZ9Ipswcn8UzeR15G0gahUCX0eM.jpg" group-title="CAPORAL",MIX MIX
+https://1a-1791.com/video/s8/2/j/T/q/M/jTqMt.caa.mp4?u=0&b=0
