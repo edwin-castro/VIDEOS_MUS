@@ -1,0 +1,32 @@
+#EXTM3U
+
+# Género: Acción
+# Serie: Breaking Bad
+# Temporada: 1
+#EXTINF:-1 tvg-id="bb-s01-e01" tvg-name="Breaking Bad T1E1 - Piloto" tvg-logo="http://example.com/logo1.jpg" group-title="Acción | Breaking Bad | Temporada 1",Breaking Bad - T1E1 - Piloto
+http://example.com/stream1.m3u8
+#EXTINF:-1 tvg-id="bb-s01-e02" tvg-name="Breaking Bad T1E2 - El gato en la bolsa" tvg-logo="http://example.com/logo2.jpg" group-title="Acción | Breaking Bad | Temporada 1",Breaking Bad - T1E2 - El gato en la bolsa
+http://example.com/stream2.m3u8
+#EXTINF:-1 tvg-id="bb-s02-e01" tvg-name="Breaking Bad T1E1 - Piloto" tvg-logo="http://example.com/logo1.jpg" group-title="Acción | Breaking Bad | Temporada 1",Breaking Bad - T1E1 - Piloto
+http://example.com/stream1.m3u8
+#EXTINF:-1 tvg-id="bb-s03-e02" tvg-name="Breaking Bad T1E2 - El gato en la bolsa" tvg-logo="http://example.com/logo2.jpg" group-title="Acción | Breaking Bad | Temporada 1",Breaking Bad - T1E2 - El gato en la bolsa
+http://example.com/stream2.m3u8
+
+# Serie: The Mandalorian
+# Temporada: 2
+#EXTINF:-1 tvg-id="tm-s02-e01" tvg-name="The Mandalorian T2E1 - El Mariscal" tvg-logo="http://example.com/logo3.jpg" group-title="Acción | The Mandalorian | Temporada 2",The Mandalorian - T2E1 - El Mariscal
+http://example.com/stream3.m3u8
+#EXTINF:-1 tvg-id="tm-s02-e02" tvg-name="The Mandalorian T2E2 - La Pasajera" tvg-logo="http://example.com/logo4.jpg" group-title="Acción | The Mandalorian | Temporada 2",The Mandalorian - T2E2 - La Pasajera
+http://example.com/stream4.m3u8
+#EXTINF:-1 tvg-id="tm-s03-e01" tvg-name="The Mandalorian T2E1 - El Mariscal" tvg-logo="http://example.com/logo3.jpg" group-title="Acción | The Mandalorian | Temporada 2",The Mandalorian - T2E1 - El Mariscal
+http://example.com/stream3.m3u8
+#EXTINF:-1 tvg-id="tm-s03-e02" tvg-name="The Mandalorian T2E2 - La Pasajera" tvg-logo="http://example.com/logo4.jpg" group-title="Acción | The Mandalorian | Temporada 2",The Mandalorian - T2E2 - La Pasajera
+http://example.com/stream4.m3u8
+
+# Género: Comedia
+# Serie: Friends
+# Temporada: 3
+#EXTINF:-1 tvg-id="fr-s03-e01" tvg-name="Friends T3E1 - El de la fantasía" tvg-logo="http://example.com/logo5.jpg" group-title="Comedia | Friends | Temporada 3",Friends - T3E1 - El de la fantasía
+http://example.com/stream5.m3u8
+#EXTINF:-1 tvg-id="fr-s03-e02" tvg-name="Friends T3E2 - El de los suegros" tvg-logo="http://example.com/logo6.jpg" group-title="Comedia | Friends | Temporada 3",Friends - T3E2 - El de los suegros
+http://example.com/stream6.m3u8
