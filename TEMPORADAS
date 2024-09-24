@@ -1,24 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MIX CAPORAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg" group-title="⭐ NACIONAL",CAPORAL
-https://1a-1791.com/video/s8/2/V/z/o/0/Vzo0b.haa.mp4?u=0&b=0
-#EXTINF:-1 tvg-name="ANDE SUR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Itgr82yyAEtwegAZgMm30UqJXK.jpg" group-title="⭐ NACIONAL",CAPORAL
+
+# Temporada 1
+#EXTINF:-1, Serie - Temporada 1 - Episodio 1
 https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+http://misvideos.com/Series/Temporada1/Episodio02.mp4
 
-#EXTINF:-1 tvg-name="LLAJTAYMANTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Itgr82yyAEtwegAZgMm30UqJXK.jpg" group-title="⭐ NACIONAL",CAPORAL
-https://1a-1791.com/video/s8/2/j/T/q/M/jTqMt.caa.mp4?u=0&b=0
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+http://misvideos.com/Series/Temporada1/Episodio02.mp4
 
+# Temporada 2
+#EXTINF:-1, Serie - Temporada 1 - Episodio 1
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+http://misvideos.com/Series/Temporada1/Episodio02.mp4
 
-#EXTINF:-1 tvg-name="The Big Bang Theory S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S02E01
-https://cdn-cf-east.streamable.com/video/mp4/keg5y4.mp4?Expires=1727464291540&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=BqvTffMVCOV9gTv7L7VF35ML-SHfI-oLijvwq0nK4sbdc22vLloL9hJlnSPlFf061o~vl9LRQvwAVAAzAazfyMYQp9u3TalMbKM76wHwhxezocXVBT~4qJGD8ILPkrLJV12JxtKyr46-m3i~nWtJ-u70fnusw8fGgD9iCXfQC1rou01T0tHcIsGIx2GrvygZ2l8Y2NhQXR9Z-fzxkwEjGVhPkg1K4NtcD66bRjeuAg~rmpJzcJ56aeZID~sOfa1hOKLO2p18N2Y0oIu8w5WJn2R0cRs4yKsn4YiA2e0q6yr7HalSrFC~z2vqTqJ6fOMnkokmrPCLrEfJISl3sqthLw__
-#EXTINF:-1 tvg-name="The Big Bang Theory S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S02E02
-https://1a-1791.com/video/s8/2/f/r/o/M/froMt.caa.mp4?u=3&b=0
-#EXTINF:-1 tvg-name="The Big Bang Theory S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S02E03
-https://1a-1791.com/video/s8/2/v/8/p/M/v8pMt.caa.mp4?u=3&b=0
-
-
-#EXTINF:-1 tvg-name="The Big Bang Theory S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S03E01
-https://1a-1791.com/video/s8/2/J/S/O/0/JSO0b.haa.mp4?u=0&b=0
-#EXTINF:-1 tvg-name="The Big Bang Theory S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S03E02
-https://cdn-cf-east.streamable.com/video/mp4/hm459n.mp4?Expires=1727464504456&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=KjzkruqUI6xlsr9lRDUCvLawxKxd0Ww1jsKgzydRVYvJRm~8MW88geAb9p9-FZtt59-UQAS7gQkojuSRb9xvIwuUCqhbx~K802sSLSnFu4kPF4lV2LmaeXtAb~kIfgmNfU-2w2wZHYEG3qLxfRnZsbFJU-AxBpWNtNviTLZu80FxRO6EB~obglxd3aUZp~oslPIyGgFODW7ZWvAhl~K9HtCm9Pi9Ku-~VWcxmLdo559zJCNSnJJkU4wVYNgK6sjI60k~OJJ4k8dTtIYhFbEfnMO-nQLh-j0WgmgScqkIAAuvJFutVM~hmMbt74qDKO2zMM1jK7aFqttm~gHrETOjXQ__
-#EXTINF:-1 tvg-name="The Big Bang Theory S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iWdGkONXwKYsv73HZr6p80Csaa.jpg" group-title="⭐ NACIONAL",The Big Bang Theory S03E03
-https://cdn-cf-east.streamable.com/video/mp4/nya07h.mp4?Expires=1727464528326&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hbee5iwp5W9ujQDUQuB7GFPvgKP0VrOO0EscEemascL05frigPJ~7JWBOVrjv22r2dmIGfBGLs7M1efyvbNamgj5JdU7yQe-XtZ8X~G2tgDBefv5WjebaWTX5JFYYwYfCHND6m~0fxLPAiZJFMZBSasS8Pgu7yGkj7LYGr6rMVKAkRONXU5lz9ATj69RS25bNpk6LDxy9nefnXZa42PpMilEkSLxveyHg0Baz2gfLbXrUH32Np6MZ5-wKw7eXKvR5-7vTVvQJVADMvXeN7MGNHcBiaczzmbQ5xFxs5kKMbgAznTuQV4IjyQ-hdv-Brwz7cNCqauSNBaKNudQAKxNXA__
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+http://misvideos.com/Series/Temporada1/Episodio02.mp4
