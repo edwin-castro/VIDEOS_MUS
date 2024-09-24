@@ -1,23 +1,28 @@
 #EXTM3U
-
-# Temporada 1
-#EXTINF:-1, Serie - Temporada 1 - Episodio 1
+#EXTINF:0, Serie - Temporada 1 - Episodio 2
+#EXTINF:0 tvg-id="CAPORALES MIX 1" tvg-name="CAPORAL" tvg-language="es" group-title="NACIONAL",NACIONAL
 https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
-http://misvideos.com/Series/Temporada1/Episodio02.mp4
 
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
-https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
-http://misvideos.com/Series/Temporada1/Episodio02.mp4
+#EXTINF:0, Serie - Temporada 2 - Episodio 2tvg-id="CAPORALES MIX 2" tvg-name="CAPORAL" tvg-language="es" group-title="NACIONAL",NACIONAL
+https://1a-1791.com/video/s8/2/V/z/o/0/Vzo0b.haa.mp4?u=0&b=0
 
-# Temporada 2
-#EXTINF:-1, Serie - Temporada 1 - Episodio 1
-https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
-http://misvideos.com/Series/Temporada1/Episodio02.mp4
 
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
+
+
+#EXTINF:0 tvg-id="CAPORALES MIX 2" tvg-name="MORENADA" tvg-language="es" group-title="NACIONAL",NACIONAL
 https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
-#EXTINF:-1, Serie - Temporada 1 - Episodio 2
-http://misvideos.com/Series/Temporada1/Episodio02.mp4
+
+#EXTINF:0 tvg-id="CAPORALES MIX 3" tvg-name="HUAYÑO" tvg-language="es" group-title="NACIONAL",NACIONAL
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+
+
+
+#EXTINF:0 tvg-id="CAPORALES MIX 1" tvg-name="CAPORALR" tvg-language="es" group-title="NACIONAL",NACIONAL
+https://cdn-cf-east.streamable.com/video/mp4/ewabj2.mp4?Expires=1727146696778&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=hYUQtYOhZB5HAxDbYi52lOyOWgaqCTufHcB~PajK9AG-nTK4wDLT20qOQqt0tHHMFemmkJY8iak1EmKba4VlxK2yC~s~OXI5coCF8dYA47zGwCV0Gu3bMnrk4Pq8y3tL0iDr673RQAmVHOMLP7lfu68wojJi2x2xXN~bsjbfwGKnImA-jxLiYybYGA8RKLHrr~ugBeOmEEVvolUGpVZhU7pWmjtk5GO7jogc1z3uEJcAkJ2CVPldepWs32LFjSzKkQz0nPIkAAJp5UiBT4MMwgWs5Jqv9wzrgISAcurT0lx3vn54aPD8rn63vHVbKhSPP7rl7wwMA4KByLu~WzdGDg__
+
+
+
+
+
+#EXTINF:0 tvg-id="NACIONAL" tvg-name="HUAYÑO" tvg-language="es" group-title="NACIONAL",Kory Huayras - Basta Corazon
+https://1a-1791.com/video/s8/2/j/T/q/M/jTqMt.caa.mp4?u=0&b=0
